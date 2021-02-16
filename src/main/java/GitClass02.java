@@ -6,5 +6,10 @@ public class GitClass02 {
     public void doSomethingElse2(){
         System.out.println("Found it easy now Git");
 
-}}
+}
+    public void doSomethingElse3(){
+        System.out.println("Found it easy now Git");
+
+    }
+}
 
